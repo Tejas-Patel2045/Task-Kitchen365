@@ -110,5 +110,6 @@ The frontend will be accessible at `http://localhost:3000`
 - A public Git repository link has been provided.
 - If you have any questions, feel free to reach out.
 
-**Author:** [Your Name]
+**Author:** 
+Tejas Patel
 
